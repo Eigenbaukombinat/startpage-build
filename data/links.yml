@@ -19,6 +19,10 @@
     - title: Mastodon 
       url: https://chaos.social/@eigenbaukombinat
       icon: fab fa-mastodon
+    - title: Vimeo
+      url: https://vimeo.com/eigenbaukombinat
+      icon: fab fa-vimeo
+
 - group: Public Services
   items:
     - title: Smashing / Dashboard
