@@ -52,9 +52,7 @@
     - title: Junghacker.de<br>externe Projektseite zu Junghacker
       url: https://junghacker.de
       icon: fas fa-house-user
-    - title: virtueller Rundgang 2016
-      url: https://vr.eigenbaukombinat.de
-      icon: fas fa-signature
+
 - group: Member Services
   items:
     - title: Nextcloud<br>Dateiaustausch
