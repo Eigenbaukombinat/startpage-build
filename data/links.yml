@@ -1,0 +1,106 @@
+---
+- group: Social media
+  items:
+    - title: Facebook
+      url: https://www.facebook.com/Eigenbaukombinat
+      icon: fab fa-facebook
+    - title: Github
+      url: https://github.com/eigenbaukombinat
+      icon: fab fa-github
+    - title: X / Twitter
+      url: https://twitter.com/ebkhalle
+      icon: fab fa-twitter
+    - title: Instagram
+      url: https://www.instagram.com/ebkhalle
+      icon: fab fa-instagram
+    - title: Youtube
+      url: https://www.youtube.com/channel/UCsfpJrx2csVoioxv6xrCqJA
+      icon: fab fa-youtube
+    - title: Mastodon 
+      url: https://chaos.social/@eigenbaukombinat
+      icon: fab fa-mastodon
+- group: Public Services
+  items:
+    - title: Smashing / Dashboard
+      url: https://dashboard.eigenbaukombinat.de/ebk
+      icon: fas fa-table
+    - title: Pretix / Tickets
+      url: https://tickets.eigenbaukombinat.de/ebk/
+      icon: far fa-calendar-check
+    - title: Pretalx / Talks
+      url: https://talks.datenspuren.de
+      icon: fas fa-bullhorn
+    - title: Partuniverse / Dinge
+      url: https://dinge.eigenbaukombinat.de
+      icon: fas fa-parachute-box
+    - title: HedgeDoc / Pads
+      url: https://pads.eigenbaukombinat.de
+      icon: fas fa-book-open
+    - title: Mitglied werden<br>EBK Online Registrierung
+      url: https://mitgliedwerden.eigenbaukombinat.de
+      icon: fas fa-user-plus
+    - title: eigenbaukombinat.de 
+      url: https://eigenbaukombinat.de
+      icon: fas fa-hotel
+    - title: Webseite durchsuchen
+      url: https://eigenbaukombinat.de/search/
+      icon: fab fa-searchengin
+    - title: Junghacker.de<br>externe Projektseite zu Junghacker
+      url: https://junghacker.de
+      icon: fas fa-house-user
+    - title: virtueller Rundgang 2016
+      url: https://vr.eigenbaukombinat.de
+      icon: fas fa-signature
+- group: Member Services
+  items:
+    - title: Nextcloud<br>Dateiaustausch
+      url: https://nc.eigenbaukombinat.de
+      icon: fas fa-cloud
+    - title: DokuWiki<br>Dokumentationstool
+      url: https://doku.eigenbaukombinat.de
+      icon: fas fa-book
+    - title: Zammad<br>E-Mail-Ticketsystem
+      url: https://z.eigenbaukombinat.de
+      icon: far fa-envelope
+    - title: Einweisungstool
+      url: https://einweisungen.eigenbaukombinat.de/admin/
+      icon: fas fa-wrench
+    - title: Veranstaltungskalender ICS-File
+      url: https://kalender.eigenbaukombinat.de/public/public.ics
+      icon: far fa-calendar
+    - title: Grafana Heizung<br>intern
+      url: http://grafana.lan/d/g5OZ-_7Vz/temperaturen?orgId=1
+      icon: fas fa-temperature-low
+    - title: Grafana Solar-Anlage<br>intern
+      url: http://grafana.lan/d/uuOlWsunz/solaranlage-eigenbaukombinat?orgId=1&refresh=10s
+      icon: far fa-sun
+    - title: Statistiken
+      url: https://stats.eigenbaukombinat.de/
+      icon: fas fa-chart-line
+- group: Admin Services
+  items:
+    - title: CheckMK<br>internal Monitoring
+      url: https://moni.eigenbaukombinat.de/EBK
+      icon: fas fa-check
+    - title: Uptimerobot<br>external Monitoring
+      url: https://stats.uptimerobot.com/N10ZzHN80N
+      icon: fas fa-robot
+    - title: Space-API-Endpunkt 
+      url: https://spaceapi.eigenbaukombinat.de/
+      icon: fas fa-server
+    - title: Kalender-API-Endpunkt
+      url: https://kalender.eigenbaukombinat.de/json/
+      icon: fas fa-server
+    - title: Kalendereintrag hinzufügen
+      url: https://kalender.eigenbaukombinat.de/add
+      icon: far fa-calendar-plus
+    - title: NodeRed Spacesteuerung<br>intern
+      url: https://codered.eigenbaukombinat.de/
+      icon: fab fa-node
+    - title: Grafana Dashboard<br>intern
+      url: http://grafana.lan
+      icon: fas fa-chart-area
+    - title: Matrix Föderation Tester
+      url: https://federationtester.matrix.org/#matrix.eigenbaukombinat.de
+      icon: fas fa-compass
+
