@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Install Hugo
         env:
-          HUGO_VERSION: 0.88.0
+          HUGO_VERSION: 0.119.0
         run: |
           mkdir ~/hugo
           cd ~/hugo
