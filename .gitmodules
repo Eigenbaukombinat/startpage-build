@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = ssh://git@github.com:Eigenbaukombinat/startpage.git
+	url = ssh://git@github.com/Eigenbaukombinat/startpage.git
 [submodule "themes/bootstrap-bp-hugo-startpage"]
 	path = themes/bootstrap-bp-hugo-startpage
 	url = git@github.com:spech66/bootstrap-bp-hugo-startpage.git
