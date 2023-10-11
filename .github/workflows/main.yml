@@ -47,7 +47,7 @@ jobs:
           git checkout main          
 
       - name: Hugo Build
-        run: hugo  --gc --minify
+        run: hugo --gc --minify
 
       - name: Commit changes
         run: |
