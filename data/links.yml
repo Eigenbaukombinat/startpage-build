@@ -4,8 +4,11 @@
     - title: Facebook
       url: https://www.facebook.com/Eigenbaukombinat
       icon: fab fa-facebook
-    - title: Github
+    - title: Github / EBK
       url: https://github.com/eigenbaukombinat
+      icon: fab fa-github
+    - title: Github / Junghacker
+      url: https://github.com/jungH4X0r
       icon: fab fa-github
     - title: X / Twitter
       url: https://twitter.com/ebkhalle
