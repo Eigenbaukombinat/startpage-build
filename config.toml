@@ -27,7 +27,7 @@ paginate = 5
   description = "EBK Startpage"
   #images = ["logo.jpg"]
   startPageColumns = true
-  welcomeText = "Linkliste start.eigenbaukombinat.de"
+  welcomeText = "Linkliste Eigenbaukombinat"
 
 [[params.searchEngines]]
   name = "Google"
