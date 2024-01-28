@@ -1,0 +1,83 @@
+---
+- group: Matrix Services
+  items:
+
+    - title: Matrix einrichten 
+      url: https://eigenbaukombinat.de/unser-neuer-chat-und-nachrichtenserver/
+      icon: fas fa-hotel
+
+    - title: Matrix Raumübersicht aller öffentlichen EBK-Räume
+      url: https://matrixrooms.info/search/?q=matrix.eigenbaukombinat.de
+      icon: fas fa-address-book
+  
+
+- group: Pad Services
+  items:
+    - title: Pad EBK-Orgatreffen
+      url:   https://pads.eigenbaukombinat.de/EBK-Orgatreffen
+      icon: fas fa-book-open
+    - title: Pad EBK-Orgatreffen Archiv
+      url:   https://doku.eigenbaukombinat.de/doku.php?id=mitgliederbereich:protokolle:orgatreffen
+      icon: fas fa-book
+    - title: Pad Holztreffen
+      url: https://pads.eigenbaukombinat.de/Holztreffen
+      icon: fas fa-book-open
+    - title: Pad Metall
+      url: https://pads.eigenbaukombinat.de/Metall
+      icon: fas fa-book-open
+    - title: Pad Hackspace-Orgatreffen
+      url: https://pads.eigenbaukombinat.de/Hackspace-Orgatreffen
+      icon: fas fa-book-open
+    - title: Pad Fahrradtreffen
+      url: https://pads.eigenbaukombinat.de/Fahrradtreffen
+      icon: fas fa-book-open
+    - title: Pad junghacker
+      url: https://pads.eigenbaukombinat.de/junghacker
+      icon: fas fa-book-open
+    - title: Pad Keramikwerkstatt
+      url: https://pads.eigenbaukombinat.de/Keramikwerkstatt
+      icon: fas fa-book-open
+    - title: Pad Sieb-Druck-Keramik-Treffen
+      url:  https://pads.eigenbaukombinat.de/Sieb-Druck-Keramik-Treffen
+      icon: fas fa-book-open
+    - title: Pad Siebdruck
+      url: https://pads.eigenbaukombinat.de/Siebdruck
+      icon: fas fa-book-open
+    - title: Pad AudioVideo
+      url: https://pads.eigenbaukombinat.de/AudioVideo
+      icon: fas fa-book-open
+    - title: Pad heyalter
+      url: htttps://pads.eigenbaukombinat.de/heyalter
+      icon: fas fa-book-open
+    - title: Pad EBK-Metapad
+      url: https://pads.eigenbaukombinat.de/Eigenbaukombinat
+      icon: fas fa-book-open
+
+
+- group: Admin Services
+  items:
+    - title: CheckMK<br>internal Monitoring
+      url: https://moni.eigenbaukombinat.de/EBK
+      icon: fas fa-check
+    - title: Uptimerobot<br>external Monitoring
+      url: https://stats.uptimerobot.com/N10ZzHN80N
+      icon: fas fa-robot
+    - title: Space-API-Endpunkt 
+      url: https://spaceapi.eigenbaukombinat.de/
+      icon: fas fa-server
+    - title: Kalender-API-Endpunkt
+      url: https://kalender.eigenbaukombinat.de/json/
+      icon: fas fa-server
+    - title: Kalendereintrag hinzufügen
+      url: https://kalender.eigenbaukombinat.de/add
+      icon: far fa-calendar-plus
+    - title: NodeRed Spacesteuerung<br>intern
+      url: https://codered.eigenbaukombinat.de/
+      icon: fab fa-node
+    - title: Grafana Dashboard<br>intern
+      url: http://grafana.lan
+      icon: fas fa-chart-area
+    - title: Matrix Föderation Tester
+      url: https://federationtester.matrix.org/#matrix.eigenbaukombinat.de
+      icon: fas fa-compass
+

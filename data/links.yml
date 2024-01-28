@@ -83,30 +83,4 @@
     - title: Statistiken
       url: https://stats.eigenbaukombinat.de/
       icon: fas fa-chart-line
-- group: Admin Services
-  items:
-    - title: CheckMK<br>internal Monitoring
-      url: https://moni.eigenbaukombinat.de/EBK
-      icon: fas fa-check
-    - title: Uptimerobot<br>external Monitoring
-      url: https://stats.uptimerobot.com/N10ZzHN80N
-      icon: fas fa-robot
-    - title: Space-API-Endpunkt 
-      url: https://spaceapi.eigenbaukombinat.de/
-      icon: fas fa-server
-    - title: Kalender-API-Endpunkt
-      url: https://kalender.eigenbaukombinat.de/json/
-      icon: fas fa-server
-    - title: Kalendereintrag hinzufügen
-      url: https://kalender.eigenbaukombinat.de/add
-      icon: far fa-calendar-plus
-    - title: NodeRed Spacesteuerung<br>intern
-      url: https://codered.eigenbaukombinat.de/
-      icon: fab fa-node
-    - title: Grafana Dashboard<br>intern
-      url: http://grafana.lan
-      icon: fas fa-chart-area
-    - title: Matrix Föderation Tester
-      url: https://federationtester.matrix.org/#matrix.eigenbaukombinat.de
-      icon: fas fa-compass
 
