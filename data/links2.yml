@@ -6,9 +6,13 @@
       url: https://eigenbaukombinat.de/unser-neuer-chat-und-nachrichtenserver/
       icon: fas fa-hotel
 
-    - title: Matrix Raumübersicht aller öffentlichen EBK-Räume
+    - title: Raumübersicht aller öffentlichen Matrix-EBK-Räume
       url: https://matrixrooms.info/search/?q=matrix.eigenbaukombinat.de
       icon: fas fa-address-book
+      
+    - title: Matrix im Browser verwenden
+      url: https://app.element.io/#/welcome
+      icon: fas fa-hotel
   
 
 - group: Pad Services
