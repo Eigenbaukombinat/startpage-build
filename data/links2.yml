@@ -17,6 +17,7 @@
 
 - group: Pad Services
   items:
+
     - title: Pad EBK-Orgatreffen
       url:   https://pads.eigenbaukombinat.de/EBK-Orgatreffen
       icon: fas fa-book-open
@@ -37,6 +38,9 @@
       icon: fas fa-book-open
     - title: Pad junghacker
       url: https://pads.eigenbaukombinat.de/junghacker
+      icon: fas fa-book-open
+    - title: Pad Jugendwerkstatt
+      url:   https://pads.eigenbaukombinat.de/jugendwerkstatt
       icon: fas fa-book-open
     - title: Pad Keramikwerkstatt
       url: https://pads.eigenbaukombinat.de/Keramikwerkstatt
