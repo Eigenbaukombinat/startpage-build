@@ -24,6 +24,9 @@
     - title: Pad EBK-Orgatreffen Archiv
       url:   https://doku.eigenbaukombinat.de/doku.php?id=mitgliederbereich:protokolle:orgatreffen
       icon: fas fa-book
+    - title: Pad Zukunft
+      url:   https://pads.eigenbaukombinat.de/Zukunft
+      icon: fas fa-book-open
     - title: Pad Holztreffen
       url: https://pads.eigenbaukombinat.de/Holztreffen
       icon: fas fa-book-open
