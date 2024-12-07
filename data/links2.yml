@@ -65,6 +65,7 @@
       icon: fas fa-book-open
     - title: Pad Schlüsseldienstreffen Eigenbaukombinat
       url: https://pads.eigenbaukombinat.de/Schluesseldienst_2024
+      icon: fas fa-book-open
 
 - group: Admin Services
   items:
@@ -92,6 +93,6 @@
     - title: Matrix Föderation Tester
       url: https://federationtester.matrix.org/#matrix.eigenbaukombinat.de
       icon: fas fa-compass
-    - titel: Heatmap Öffnungsanzeige
+    - title: Heatmap Öffnungsanzeige
       url: https://www.mapall.space/heatmap/show.php?id=Eigenbaukombinat+Halle
       icon: fas fa-temperature-high
