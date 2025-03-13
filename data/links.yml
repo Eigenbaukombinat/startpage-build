@@ -10,7 +10,7 @@
     - title: Github / Junghacker
       url: https://github.com/jungH4X0r
       icon: fab fa-github
-    - title: X / Twitter
+    - title: <del>X / Twitter</del> (inaktiv)
       url: https://twitter.com/ebkhalle
       icon: fab fa-twitter
     - title: Instagram
@@ -29,7 +29,7 @@
 
 - group: Public Services
   items:
-    - title: Smashing / Dashboard
+    - title: <del>Smashing / Dashboard</del> (inaktiv)
       url: https://dashboard.eigenbaukombinat.de/ebk
       icon: fas fa-table
     - title: Pretix / Tickets
@@ -71,8 +71,11 @@
     - title: Einweisungstool
       url: https://einweisungen.eigenbaukombinat.de/admin/
       icon: fas fa-wrench
-    - title: Veranstaltungskalender ICS-File
+    - title: Veranstaltungskalender ICS-File (public)
       url: https://kalender.eigenbaukombinat.de/public/public.ics
+      icon: far fa-calendar
+    - title: Veranstaltungskalender ICS-File (all)
+      url: https://kalender.eigenbaukombinat.de/public/all.ics
       icon: far fa-calendar
     - title: Grafana Heizung<br>intern
       url: http://grafana.lan/d/g5OZ-_7Vz/temperaturen?orgId=1
