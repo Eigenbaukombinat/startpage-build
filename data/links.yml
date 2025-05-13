@@ -25,6 +25,13 @@
     - title: Vimeo
       url: https://vimeo.com/eigenbaukombinat
       icon: fab fa-vimeo
+    - title: EBK Telegram-Gruppe
+      url: https://t.me/ebk_halle
+      icon: fab fa-telegram
+      
+
+
+
 
 
 - group: Public Services
