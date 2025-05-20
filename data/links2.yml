@@ -78,7 +78,10 @@
     - title: Uptimerobot<br>external Monitoring
       url: https://stats.uptimerobot.com/N10ZzHN80N
       icon: fas fa-robot
-    - title: Space-API-Endpunkt 
+    - title: manuelle Junghackertag-Statistik 
+      url: https://junghacker.de/jhstats.json
+      icon: fas fa-server   
+    - title: Space-API-Endpunkt
       url: https://spaceapi.eigenbaukombinat.de/
       icon: fas fa-server
     - title: Kalender-API-Endpunkt
