@@ -67,6 +67,9 @@
       url: https://pads.eigenbaukombinat.de/Eigenbaukombinat
       icon: fas fa-book-open
     - title: Pad Schlüsseldienstreffen Eigenbaukombinat
+      url: https://pads.eigenbaukombinat.de/Schluesseldienst
+      icon: fas fa-book-open
+    - title: Altes Pad Schlüsseldienstreffen Eigenbaukombinat
       url: https://pads.eigenbaukombinat.de/Schluesseldienst_2024
       icon: fas fa-book-open
 
