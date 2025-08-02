@@ -7,7 +7,7 @@
       icon: fas fa-hotel
 
     - title: Raumübersicht aller öffentlichen Matrix-EBK-Räume
-      url: https://matrixrooms.info/search/matrix.eigenbaukombinat.de
+      url: https://matrixrooms.info/search/server:matrix.eigenbaukombinat.de
       icon: fas fa-address-book
       
     - title: Matrix im Browser verwenden
