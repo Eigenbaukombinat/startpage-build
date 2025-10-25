@@ -13,6 +13,10 @@
     - title: Matrix im Browser verwenden
       url: https://app.element.io/#/welcome
       icon: fas fa-hotel
+
+    - title: Matrix Synapse Dokumentation
+      url: https://element-hq.github.io/synapse/latest/
+      icon: fas fa-address-book
   
 
 - group: Pad Services
