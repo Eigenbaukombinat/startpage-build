@@ -1,0 +1,23 @@
+---
+- group: Temp Services
+  items:
+   
+    - title: temp-werkstatt
+      url: http://temp-werkstatt.lan
+      icon: fas fa-temperature-high
+    - title: temp-vereinsbuero
+      url: http://temp-vereinsbuero.lan
+      icon: fas fa-temperature-high
+    - title: temp-sozialraum
+      url: http://temp-sozialraum
+      icon: fas fa-temperature-high
+    - title: temp-hackspace
+      url: http://temp-hackspace.lan
+      icon: fas fa-temperature-high
+    - title: temp-handarbeit
+      url: http://temp-handarbeit.lan
+      icon: fas fa-temperature-high
+    - title: feinstaubsensor
+      url: http://feinstaubsensor.lan
+      icon: fas fa-temperature-high
+      

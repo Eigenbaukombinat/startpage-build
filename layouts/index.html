@@ -41,6 +41,21 @@
             </div>
         {{ end }}
     </div>
+    <div id="groupList" class="card-deck mt-3">
+        {{ range .Site.Data.links3 }}
+            <div id="groupListEntry" class="card">
+                <div class="card-body">
+                    <h5 class="card-title groupTitle">{{ .group }}</h5>
+                    <ul class="list-group list-group-flush groupListList">
+                        {{ range .items }}
+                            <li class="list-group-item groupListListItem"><a href="{{ .url }}" target="_blank" class="groupLink"><i class="{{ .icon }}"></i>&nbsp;<span class="groupText">{{ .title | safeHTML }}</span></a></li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+
 {{ else }}
     <div id="iconList" class="card-columns mt-3">
         {{ range .Site.Data.links }}
@@ -63,6 +78,18 @@
                 </div>
             {{ end }}
         {{ end }}
+        {{ range .Site.Data.links3 }}
+            {{ range .items }}
+                <div id="iconListEntry" class="card">
+                    <div class="card-body cursorPointer" onclick="location.href = '{{ .url }}'">
+                        <p class="card-text"><a href="{{ .url }}" target="_blank" class="iconLink"><i class="fa-5x {{ .icon }}"></i></a></p>
+                        <p class="card-text"><a href="{{ .url }}" target="_blank" class="iconLink">{{ .title | safeHTML }}</a></p>
+                    </div>
+                </div>
+            {{ end }}
+        {{ end }}
+
+
     </div>
 {{ end }}
 <a href="https://eigenbaukombinat.de/impressum/" target="_blank" class="groupLink">Impressum</a>
