@@ -75,6 +75,9 @@
     - title: Zammad<br>E-Mail-Ticketsystem
       url: https://z.eigenbaukombinat.de
       icon: far fa-envelope
+    - title: Zammad<br>Dokumentation
+      url: https://user-docs.zammad.org/de/latest/
+      icon: far fa-envelope
     - title: Einweisungstool
       url: https://einweisungen.eigenbaukombinat.de/admin/
       icon: fas fa-wrench
